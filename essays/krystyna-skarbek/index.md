@@ -29,9 +29,8 @@ After they escaped, the couple was stationed in Istanbul, and then to Cairo, whe
 Krystyna's last and most infamous mission as an SOE agent was a month after D-Day, where she parachuted into the Alps, helped resistance fighters, and convinced Poles that had joined the Nazis to convert to the Allies instead.
 From the Alps, she was transferred to Southeastern France by August, when "a resistance leader, French army officer and SOE agent were arrested and condemned to be executed in four days." After unsuccessfully trying to form a rescue team, Krystyna was the only one that would risk her life to save the men. She personally met with the Gestapo officer holding the allied men and convinced him to release them “by a combination of truths, half-truths, audacious lies.” This would be Krystyna's last operation as an SOE officer.
 
-
 ## Post-War Life and Assassination
-![The Croix de Guerre](images/Croix.jpg)
+![Croix de Guerre](images/Croix.jpg)
 
 Krystyna would end the war as an Honorary Flying Officer. Post-war she would be awared the George Medal, the Croix de Guerre, and made an Officer of The British Empire (a rank above the usual "Member of The British Empire")
 Despite her heroism and pivotal role in WWII, Krystyna's post-war life was marked with unfulfilling jpbs, and she was later murdered by a jilted ex-lover in 1952.
