@@ -2,93 +2,42 @@
 title: "Krystyna Skarbek"
 layout: scrollstory
 header-image: images/skarbek-collage.jpg
-thumbnail: images/skarbek-collage.jpg
+thumbnail: images/unnamed.jpg
 position: 2
 summary: An overview of Krystyna Skarbek - Christine Granville
 ---
 
-# Krystyna Skarbek
+# Interwar Early Life
+(<images/Krystyna colored pic.jpg>)
+Polish woman born to an aristocratic family in Warsaw, date of birth between 1908-1909. Exact date of birth unknown due to various documentations from Krystyna, her father, travel visas, and her later name change.
+Second born child of Count Jerzy Skarbek and Countess Stefania Skarbek, Krystyna grew up in a very privileged lifestyle. Spending the majority of her childhood in Roman Catholic boarding schools, learning "discipline and decorum", as well as horseback riding and skiing, which would later be of use in her antifascist activities. 
+Krystyna was turning 18 when The Great Depression hit the Skarbek's, forcing them to sell the family bank, land, farm, and house. At this time, Krystyna Started working at a motor dealership and met her first husband, Gustav Gettlich. The couple would last for a year before their amicable seperation.
+This is when Krystyna would be diagnosed with lung damage due to the car fumes in the Fiat office. Doctors would then advise her to vacation in the Polish ski town, Zakopane, where the "clear air might help offset the damage caused to her lungs."
+During her time at Zakopane, Krystyna met her soon-to-be second husband, businessman and occasional diplomat Jerzy Gizycki. The two would marry in 1938, directly prior to Gizycki's appointment as Polish consul in Addis Ababa. Shortly after landing in the capital, the couple was then informed of Hitler's invasion of Poland, thus causing them to move to London to fight for the Allies and protect their families. 
 
-Every food has a story. Most have a thousand years of evolution. Nachos? Born in 1943 at a single moment of improvisation in a small café near the Texas-Mexico border. What makes this story fascinating is not how old nachos are, but how *young* they are—and yet how deeply they've embedded themselves in American culture.
+## WWII and Antifascism
+(<images/Krystyna solo BW.jpg>)
 
-## The Origin Myth
-
-{% capture nachos_origin_text %}
-The year was 1943. The location: the Victory Club (also called Nacho's Restaurant), in Piedras Negras, Mexico, just across the Río Grande from Eagle Pass, Texas. A group of military wives from the nearby base—hungry, adventurous, probably tired of official dining—wandered into the restaurant after it had technically closed for the evening.
-
-Rather than turn them away, the owner (Ignacio "Nacho" Anaya) improvised. He took the kitchen's remaining ingredients: tortilla chips, melted cheese, sliced jalapeños—and created something entirely new.
-
-The dish was named after its creator: *los nachos de Ignacio* became simply *nachos*.
+With a strong sense of Polish pride, though Poland would not allow women in the Polish Resistance, Krystyna would lend aid to the Poles via Britain, where she worked as a special intelligence (SIS) operator.
+Her first mission as a SIS member was to travel to them-neutral Budapest and assist in spreading British propaganda, as well as obtain information of German plans and whereabouts. During her first stay in Budapest, she would meet Andrzej Kowerski, an Allied Liutenant of Poland's only motorized brigade.
+Shortly after meeting and maintaining a stable relationship with Kowerski, Krystyna went, along with Polish Olympic skier Jan Marusarz and “Richard” an unknown VIP friend of Kowerskis, on a skiing incursion “From Budapest, over the Tatra mountains, and on across Slovakia into Poland [Zakopane]” where she would continue her antifascist work, and attempt to convince her mother, an assimilated Jew, to leave Poland. Krystyna was unsuccessful in the last regard, as her mother refused to leave and was soon thereafter murdered by Nazis.
+From Zakopane, the group took the train to Warsaw, where Krystyna would first encounter the Gestapo. During this interaction, she was carrying a bundle of British propaganda, but would use her charm to flirt with the agent and convince him that the bundle was black-market tea for her ill mother. The agent fell for the ruse and ended up taking the bundle in his briefcase before returning it to Krystyna when they parted ways at the station.
+After this, Krystyna worked unrecognized in Warsaw for mutliple weeks, staying with members of the Polish Underground Resistance, before she was almost outed as having a Jewish mother. This interaction would force Krystyna to trek back to Budapest, and would put her on a watchlist for the Gestapo as well as the Hungarian Secret Police. 
+When she returned to Budapest, Churchill would be elected Prime Minister, and the SIS would be absorbed by the Special Operation Executive (SOE) where Krystyna was quickly accepted due to her prior service and fluency in French. Shortly after, Krystyna was forced to flee Budapest, as she was "being pursued by the Hungarian Secret Police and the Gestapo." At this time, she would change her name to Christine Granville and birth year to 1915. Also at this stage, Krystyna played a key role in transmitting intelligence of Hitler concentrating forces on the Russian border, which leads to Churchill warning Stalin of the impending Operation Barbarossa.
+Kowerski, having also been adopted into the SOE, and Krystyna was arrested by the Gestapo in January 1941. However, they managed to escape after Krystyna faked illness and convinced the agents to release them.
+After they escaped, the couple was stationed in Istanbul, and then to Cairo, where they would be accused of being double agents for Poland and Britain “because she had changed false IDs too easily.” This led to the British putting them both on leave in June, but bringing them back by September of the same year. 
+Krystyna's last and most infamous mission as an SOE agent was a month after D-Day, where she parachuted into the Alps, helped resistance fighters, and convinced Poles that had joined the Nazis to convert to the Allies instead.
+From the Alps, she was transferred to Southeastern France by August, when "a resistance leader, French army officer and SOE agent were arrested and condemned to be executed in four days." After unsuccessfully trying to form a rescue team, Krystyna was the only one that would risk her life to save the men. She personally met with the Gestapo officer holding the allied men and convinced him to release them “by a combination of truths, half-truths, audacious lies.” This would be Krystyna's last operation as an SOE officer.
 {% endcapture %}
 
-{% include images/figure-wrap.html
-  image-path="images/skarbek-collage.jpg"
-  image-position="right"
-  image-width="50%"
-  caption="Piedras Negras sits just across the river from Eagle Pass, Texas. A strategic location for food invention."
-  text=nachos_origin_text
-%}
-
-{% include typography/pullquote.html text="\"The wives loved them. Word spread. Soldiers stationed at the base became regulars. And a snack was born not from tradition, but from hospitality and improvisation.\"" %}
-
-But here's where it gets complicated: nearly every element of this story has been questioned, refined, disputed, and occasionally reinvented by food historians. Was it really 1943? Was Ignacio Anaya the true creator, or one of several innovators working in the same border region? Did it matter?
-
-
-## The Great Cheese Question
-
-As nachos spread northward into Texas, California, and eventually everywhere, they began to change. The original, simple version—chips, cheese, jalapeños—was just the beginning.
-
-What followed was ingredient proliferation. Some added beans. Some added meat. Some added sour cream, guacamole, salsa, olives, onions. Each region, each restaurant, each home cook claimed their version was the *real* nacho.
-
-This is where the Nacho Wars began.
-
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
-{% include images/carousel.html id="nacho-variations" images=images_list %}
-
-**The variations tell a story about American food culture itself:**
-- The loaded nacho (everything on it) represents American maximalism.
-- The minimalist nacho (cheese only) represents purist nostalgia.
-- The upscale nacho (pulled pork, artisanal cheese, microgreens) represents food gentrification.
-
-Each is authentic to some version of nacho-dom. None is wrong. All are right.
-
-
-## From Café to Stadium to Home
+(images/Croix.jpg)## Post-War Life and Assassination
 
 {% capture nachos_spread_text %}
-The path from invention to ubiquity was surprisingly quick. By the 1960s, nachos appeared at sporting events. By the 1970s, they were in movie theaters. By the 1980s, they were a Super Bowl staple. By the 1990s, every Mexican restaurant had them. By the 2000s, teenagers were making them in dorm rooms and kitchens everywhere.
+Krystyna would end the war as an Honorary Flying Officer. Post-war she would be awared the George Medal, the Croix de Guerre, and made an Officer of The British Empire (a rank above the usual "Member of The British Empire")
+Despite her heroism and pivotal role in WWII, Krystyna's post-war life was marked with unfulfilling jpbs, and she was later murdered by a jilted ex-lover in 1952. 
 
-What's remarkable about nachos is that they *scale*. You can make them for two people. You can make them for a crowd. You can make them fancy. You can make them with whatever is in the fridge. This scalability—this democratic quality—is why nachos became universal where other regional specialties remained regional.
-
-Salsa stayed Southwestern. Gumbo stayed Southern. Lobster rolls stayed coastal. But nachos? Nachos went everywhere.
-{% endcapture %}
-
-{% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
-  image-position="left"
-  image-width="45%"
-  caption="Nachos at the ballpark: the moment when a border café specialty became an American institution."
-  text=nachos_spread_text
-%}
-
-
-## The Sociology of Sharing
-
-{% include typography/pullquote.html text="\"A plate of nachos is a shared experience. You don't order nachos for yourself alone (or if you do, you feel vaguely foolish). Nachos are inherently social, inherently communal.\"" %}
-
-There's something in the structure of nachos—the individual pieces, the shared plate, the need to reach and grab—that makes them fundamentally *social*. You cannot eat nachos in isolation. You cannot eat nachos formally. Nachos demand casualness, conviviality, the awkward reaching-over-each-other-for-the-good-pieces that defines friends eating together.
-
-This is not accident. This is geometry and physics as social design.
-
-
-## The Future of Nachos
-
-The nacho has already survived one kind of challenge: constant reinvention. What comes next?
-
-Some restaurants have tried to elevate nachos to fine dining—truffled cheese, exotic meats, artisanal chips. Some have tried to make them health-conscious—cauliflower chips, dairy-free cheese. Some have pushed them into fusion territories—Korean nachos, Indian nachos, Thai nachos.
-
-But every time, the original simplicity—chips, cheese, jalapeños—calls us back. It's the baseline. It's the proof of concept. It's the reminder that the best foods are sometimes the ones born from constraint, from improvisation, from someone saying: "I have these ingredients and I'm hungry. What can I make?"
-
----
-
-**Further exploration:** Search for regional variations in your area. Try making them at home with different cheeses. Ask older family members where they first encountered nachos. The history of food is the history of where it went, not just where it came from.
+## Works cited
+Mulley, C. The Spy Who Loved: The Secrets and Lives of Christine Granville. St. Martin’s Griffin, 2014.
+Nowicki, R. “Krystyna Skarbek: A Letter” The Polish Review, Vol. 50, No 1. (2005): pp. 93-10  http://www.jstor.com/stable/25779522
+Storey, N. “Krystyna Skarbek-Granville GM, OBE, Croix de Guerre, born (ca. 1908-1952)” in Great British Adventurers. Remember When, 2012. 
+Smith, S. “Christine Granville, A Spy Who Helped Finish Nazis.” Investor’s Business Daily, 2013.
