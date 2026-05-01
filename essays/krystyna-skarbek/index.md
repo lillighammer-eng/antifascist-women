@@ -8,7 +8,7 @@ summary: An overview of Krystyna Skarbek - Christine Granville
 ---
 
 # Interwar Early Life
-images/Krystyna solo BW.jpg
+{images/Krystyna solo BW.jpg}
 
 Polish woman born to an aristocratic family in Warsaw, date of birth between 1908-1909. Exact date of birth unknown due to various documentations from Krystyna, her father, travel visas, and her later name change.
 Second born child of Count Jerzy Skarbek and Countess Stefania Skarbek, Krystyna grew up in a very privileged lifestyle. Spending the majority of her childhood in Roman Catholic boarding schools, learning "discipline and decorum", as well as horseback riding and skiing, which would later be of use in her antifascist activities. 
@@ -17,7 +17,7 @@ This is when Krystyna would be diagnosed with lung damage due to the car fumes i
 During her time at Zakopane, Krystyna met her soon-to-be second husband, businessman and occasional diplomat Jerzy Gizycki. The two would marry in 1938, directly prior to Gizycki's appointment as Polish consul in Addis Ababa. Shortly after landing in the capital, the couple was then informed of Hitler's invasion of Poland, thus causing them to move to London to fight for the Allies and protect their families. 
 
 ## WWII and Antifascism
-images/Krystyna colored pic.jpg
+{images/Krystyna colored pic.jpg}
 
 With a strong sense of Polish pride, though Poland would not allow women in the Polish Resistance, Krystyna would lend aid to the Poles via Britain, where she worked as a special intelligence (SIS) operator.
 Her first mission as a SIS member was to travel to them-neutral Budapest and assist in spreading British propaganda, as well as obtain information of German plans and whereabouts. During her first stay in Budapest, she would meet Andrzej Kowerski, an Allied Liutenant of Poland's only motorized brigade.
@@ -32,7 +32,7 @@ From the Alps, she was transferred to Southeastern France by August, when "a res
 {% endcapture %}
 
 ## Post-War Life and Assassination
-Images/Croix.jpg
+{Images/Croix.jpg}
 
 Krystyna would end the war as an Honorary Flying Officer. Post-war she would be awared the George Medal, the Croix de Guerre, and made an Officer of The British Empire (a rank above the usual "Member of The British Empire")
 Despite her heroism and pivotal role in WWII, Krystyna's post-war life was marked with unfulfilling jpbs, and she was later murdered by a jilted ex-lover in 1952. 
