@@ -1,12 +1,13 @@
 ---
 title: "Krystyna Skarbek"
 layout: scrollstory
-header-image: images/skarbek-collage.jpg
-thumbnail: images/unnamed.jpg
+headers: images/skarbek-collage.jpg
+thumbnail: images/Krystyna flower.jpg
 position: 2
 summary: An overview of Krystyna Skarbek - Christine Granville
 ---
 
+# Krystyna Skarbek
 # Interwar Early Life
 ![Krystyna solo B&W](<images/Krystyna solo BW.jpg>)
 
